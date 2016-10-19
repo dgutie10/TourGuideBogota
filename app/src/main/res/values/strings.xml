@@ -151,6 +151,67 @@
 
     <!-- Restaurants -->
 
+    <!-- Black Bear Restaurant-->
+    <string name="black_bear_title">Black Bear</string>
+    <string name="black_bear_description">
+        Book a week in advance for excellent European fare and cocktails at this ultra-trendy restaurant south of 93 Park. The salmon tartar with avocado is a highlight of the raw bar, while the red wine-soaked steak tops the prosciutto-wrapped salmon. For drinks, try the Penicillin with 12-Year Chivas Real, honey, ginger and lime.
+    </string>
+
+    <!-- El Cielo Restaurant-->
+    <string name="cielo_title">El Cielo</string>
+    <string name="cielo_description">
+        Chef Juan Manuel Barrientos is a molecular gastronomist who manipulates taste, smell, touch and sound into a culinary circus. The restaurant offers two tasting menus (differentiated only by the number of courses) with delicious WTF plates and presentations that can produce more smoke than a David Copperfield show. Located in Zona G, this is a fine-dining establishment where patrons must play with their food.
+    </string>
+
+    <!--Bruto Restaurant-->
+    <string name="bruto_title">Bruto</string>
+    <string name="bruto_description">
+        In Zona G, this Spanish Basque restaurant is famous for crispy grilled octopus with a thick moist center served with creamy chimichurri sauce. The Colombian chef, who trained and worked in Spain, returned home in 2009 when the countries experienced an economic reversal of fortunes.
+    </string>
+
+    <!-- Matiz Restaurant-->
+    <string name="matiz_title">Matiz</string>
+    <string name="matiz_description">
+        North of 93 Park, the Euro-Latin Matiz is worth the tasting menu and wine-pairing splurge. Courses can include Alaskan king crab over pasta, Peruvian potato causa topped with crispy octopus, 36-hour-cooked pork belly and lamb served with a Mediterranean-style sauce. The pairings, meanwhile, tend to span the globe with wines from California, France, Chile, Argentina and even Villa De Leyva, a colonial town four hours outside Bogotá.\nGraduate of Le Cordon Bleu Peru, Chilean chef Nicolás Quintano draws upon his visual arts background to combine new cooking techniques employing impeccable presentation.\nA sophisticated dining experience in a best of Bogota area, Matiz offers gourmet dishes with complex and surprising flavors.\nThe seven-course tasting menu is a unique experience tailored to the tastes of each eater and inspired by the creativity of the chef.\nThe outdoor terrace with its waterfall and vertical gardens is ideal for day or night dining. Cost for the seven-course tasting menu without wine pairing is COP$120,000 ($66).\n\nMatiz, Calle 95 # 11a 17, Barrio Chico, Bogota Colombia; +571 520 2003
+    </string>
+
+    <!--Criterion Restaurant-->
+    <string name="cirterion_title">Criterion</string>
+    <string name="criterion_description">
+        Celebrity chefs Jorge (chef de cuisine) and Mark (pastry chef) Rausch combine Colombian ingredients and French technique for what is easily the most-esteemed restaurant in the country. The Zona G restaurant has surprisingly affordable tasting menus with stylish touches such as serving tiramisu like a potted plant.
+    </string>
+
+    <!-- NN Restaurant -->
+    <string name="nn_title">NN</string>
+    <string name="nn_description">
+        On the edge of Zona G, NN is a speakeasy-style restaurant with an entrance in the back of a funky design store. The prohibition-themed joint serves excellent beef wellington and cheese fondue as well as specialty cocktails like blood orange mojitos and vodka aloe vera. On certain nights, a piano player bangs out tunes by the likes of Billy Joel and Elton John.\n
+    </string>
+
+    <!--Harry Sasson Restaurant-->
+    <string name="casa_title">Casa Vieja</string>
+    <string name="casa_desctiption">
+        Excellent, traditional Colombian dishes such as ajiaco and sobrebarriga have been circulating through this quaint dining anachronism for almost 50 years.\nThe two-story colonial-style house has an outdoor terrace with a fireplace, a private dining area for parties up to 25 people and an adorable bar.\nLive music is played at lunchtime on weekdays.\n\nCasa Vieja, Calle 70, #6-23, Bogota Colombia; +571 310 5247\n
+    </string>
+
+    <!--Wok Restaurant-->
+    <string name="wok_title">Wok</string>
+    <string name="wok_description">
+        Easy on the wallet, but explosive in flavor, this local Bogota fusion chain draws its inspiration from the flavors of Vietnam, Cambodia, Thailand, Malaysia and other Asian countries, serving it all with a Colombian twist.\nThe focus here is on national ingredients, from moshiso leaves grown by descendants of Japanese immigrants to fish from the Colombian Pacific coast.\n\nWok, Zona T Carrera 16 No. 86A-76, Bogota Colombia; +571 622 5980
+    </string>
+
+    <!-- Juan Valdez Restaurant-->
+    <string name="juan_title">Juan Valdez</string>
+    <string name="juan_description">
+        A cool climate mixed with Colombia\'s love of good tinto (black coffee) guarantees a coffee shop on nearly every corner in the city.\nAlthough much of the quality Colombian coffee is exported, Juan Valdez is proof that some does stay in the country.\nWhile some may balk at the inclusion of a corporate coffee dispensary, this famous symbol of Colombian coffee growers focuses on coffee education and the support of various national coffee producing areas.\nThis is a popular place for impromptu business meetings or gatherings with friends.\n\nJuan Valdez Cafe, Cra.11 No.82-10 - 1r. Piso, Bogota Colombia\n
+    </string>
+
+    <!-- Side Note Resturant -->
+    <string name="side_title">Side Note</string>
+    <string name="side_note">
+        Interestingly, the rise in Colombian gastronomy motivated several Peruvian chefs to open restaurants in Bogotá. Notably, Rafael Osterling opened La Despensa (try the crispy chicharron sandwich with cheesy huancaina sauce) and his namesake Rafael (go for the Thai coconut milk fish with clams or the goat cheese gnocchi). Gastón Acurio has three spots in the city—Astrid y Gastón, La Mar Cebichería and Madam Tusan—but only La Mar in Usaquén deserves a visit. (Interesting side note, famed Peruvian chef Virgilio Martínez of Central previously helmed Astrid y Gaston Bogotá).\nFor upscale Colombian, the best bets are Mini-Mal, Leo Cocina y Cava and Donostia, but do not sleep on street food staples (e.g., arepa, corn on the cob) at Enrique Olaya Herrera National Park or Bogotá’s famed ajiaco soup with pulled chicken, cream, avocado, capers and three types of potato. Ignore the hotel concierge that suggests Club Colombia for ajiaco and find Mama Lupe on Calle 11 east of Plaza Bolívar. The hole-in-the-wall restaurant serves the best ajiaco in the city, but avoid the surrounding copycats trying to capitalize on its popularity.\n
+    </string>
+
+
 
 
 
