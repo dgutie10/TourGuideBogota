@@ -1,0 +1,160 @@
+<resources>
+    <string name="app_name">Tour Guide Bogota</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="fragment_sites">Sites</string>
+    <string name="fragment_restaurants">Restaurants</string>
+    <string name="fragmnet_activities">Activities</string>
+    <string name="fragment_hotels">Hotels</string>
+
+    <!--Sites Fragment strings -->
+    <string name="candelaria_title">La Candelaria</string>
+
+    <string name="candelaria_description">
+        Many landmark events in the history of Colombian and South American independence took place in the La Candelaria, district including the near killing and escape of Simon Bolivar,
+        the execution of revolutionary heroine Policarpa Salavarrieta, known as \'La Pola\', and the Grito de Libertad, known as the beginning of the region\'s revolution. And the district
+        is indeed teeming with history, and there are a lot of interesting museums and old churches in what is the oldest Bogotá neighborhood. Some streets are reserved to pedestrians.
+        The most important places are La Catedral, Plaza de Bolivar, Palacio de Nariño, Iglesia del Carmen, Biblioteca Luis A Arango (blaa), the Colonial Art Museum and the old architecture
+        of the houses and buildings, almost all of the museums charge no admission. La Candelaria also contains numerous Catholic Churches, many of them centuries-old. The Colombian-American
+        and Colombian-French cultural centers are located in La Candelaria, and a Colombian-Spanish cultural center is under construction.
+    </string>
+
+    <!-- Sites Fragment Zona G -->
+    <string name="zonag_title">Zona G </string>
+
+    <string name="zonag_description">
+        Between the Chapinero and Los Rosales neighborhoods, Zona G is an upscale area with the city\’s finest restaurants. In fact, the G stands for gourmet. Crepes y Waffles restaurants and Juan Valdez
+        coffee bars exist throughout the city, but Zona G claims the only Crepes y Waffles Arte-Sano (do not skip dessert or the frozen coconut lemonade) and Juan Valdez Origenes (enjoy a Sierra Nevada French
+        press on the rooftop deck) with more progressive choices. The bohemian hotspot sits between Calles 65 and 71 / Carreras 3 and 10. Foodies will want to stay near Zona G, and Chapinero Alto to the south
+        is popular with the LGBT community.
+    </string>
+
+    <!-- Sites Fragment Zona Rosa -->
+    <string name="zonarosa_title">Zona Rosa </string>
+
+    <string name="zonarosa_description">
+        Between Calles 79 and 85 / Carreras 11 and 15, Zona Rosa is nightlife central in Bogotá with party-packed Zona T, a T-shaped pedestrian intersection lined with restaurants, pubs and nightclubs. The area also
+        features three of the city\’s premiere shopping centers, i.e., Andino (with top designers), Atlantis (with a Hard Rock Café) and El Retiro with Andrés DC (the city version of Andrés Carne de Res in Chia).
+        Zona Rosa also features boutiques by trendy Colombian designers like Adriana Capasso. The legal drinking age is 18, and people drink on the streets, so Zona T stays are better for young singles than strolled-strapped parents.
+    </string>
+
+    <!-- Sites Fragment Parque 93 -->
+    <string name="park93_title">Parque 93 </string>
+
+    <string name="park93_description">
+        Slightly north of Zona Rosa, 93 Park (or Parque de la 93) is a lively square surrounded by restaurants, shops and pubs. As the name implies, the park sits between Calles 93a and 93b (and Carreras 11a and 13), and this upscale neighborhood
+        is the ideal place for most travelers to stay with high levels of energy, character, security and activities. Colombia is the world\’s largest supplier of emeralds, and if in the market for a bright green rock, visit the Centro 93 shopping
+        center at Carrera 15 and Calle 93.
+    </string>
+
+    <!-- Sites Fragment Usaquen -->
+    <string name="usaquen_title">Usaquen</string>
+
+    <string name="usaquen_description">
+        Annexed into Bogotá 60 years ago, the once-separate city of Usaquén is a fashionable neighborhood with colonial architecture, cobblestone streets, a central plaza, a Sunday market and stylish watering holes. For travelers wanting old-world charm,
+        village-style Usaquén is the upmarket answer to La Candelaria. Center your stay near the plaza (Calles 118 and 119 / Carreras 6 and 6a) with the 16th-century Santa Bárbara Church on the park\’s eastern edge.
+        A tiny colonial town within the big metropolis, Usaquen is a district in which you\'ll discover small, quirky restaurants and bars with first-rate food and live music.
+        A colorful arts and crafts fair is held on Sundays and holidays.
+        Colombian musicians play the harp, saxophone or marimba on street corners, local artists sell paintings and craftsmen display jewelry, leather products, hats and bags crafted by indigenous tribes, and more.
+    </string>
+
+    <!-- Sites Fragment Monserrate -->
+    <string name="monserrate_title">Monserrate</string>
+
+    <string name="monserrate_description">
+        This mountaintop overlook founded in the early 1600s provides a best of Bogota view at above 10,000 feet.
+        The panoramic view of the vast city below is worth the trip, but there are numerous souvenir shops through which to browse, and delicious French and Colombian restaurants to try.
+        The easiest way to get here is via short cable car ride.
+    </string>
+
+
+    <!-- Activities -->
+
+    <!-- Ciclovia Activity -->
+    <string name="ciclovia_title">Ciclovia</string>
+    <string name="ciclovia_desciption">
+        Su 07:00-14:00. Rent a bike on Sundays and join the locals when they cycle, run and stroll on the normally traffic choked main roads of the city. Bogotá Bike Tours and Bogotravel Tours, both located in La Candelaria, rent bicycles for COP20,000
+        for 4 hours or offer guided bike tours by locals. The most handy and properly most relaxed choice would be a tour north on Carrera 7. You can cycle almost all the way up to Usaquen, from where on the Septima is again opened for traffic. Don\'t
+        expect the whole city to be car free. Ciclovia indeed limits itself to just a very few main roads in the city. Other roads blocked include: Calle 26, Avenida 1 Mayo and Avenida Bocaya. Ciclovia Sundays are also one of your best bets to explore the
+        \'dangerous\' South of the city a bit. COP7,000/h.
+    </string>
+
+    <!-- Humedales Activity -->
+
+    <string name="humedales_title">Hike in the Humedales</string>
+    <string name="humedales_description">
+         Who would have imagined that there exists a fascinating natural wonder right in the heart of Bogotá\? The wetlands of the Sabana (savannah) de Bogotá is where the rivers slow down a bit to rest on the plateau and \“clean up\” after flowing down from
+        mountains. The water then continues to flow into the valleys to rejoin with the rivers below, including the Bogotá and Magdalena rivers. In Bogota\'s Wetlands, one can encounter plants that convert pollutants into medicines and a natural water treatment
+        system in the heart of the city. COP62,000
+    </string>
+
+    <!-- Hacienda Santa Barbara Activity-->
+    <string name="hacienda_title">Shopping  in Hacienda Santa Barbara</string>
+    <string name="hacienda_description">
+        A 19th-century farmhouse converted into a mall, the Hacienda is a good place to get a dose of history while getting your shopping done.
+        Several cafes serve Colombian coffee in cobblestone squares flanked by fountains, wood balconies and stone walkways.
+        There are plenty of jewelry shops, high-end craft and textile stores and bars with live music, and the food court even has real restaurants.
+    </string>
+
+    <!-- Centro Andino Activity-->
+    <string name="centro_title">Shopping in Centro Andino</string>
+    <string name="centro_description">
+        A sophisticated shopping mall that offers international and national brands, leather goods, souvenirs and jewelry, Centro Andino was the seed for development in Zona Rosa that transformed the neighborhood into a vibrant commercial destination.
+        Vertical gardens and live music on select evenings add to the elegant surroundings, which are soon due to receive a fourth level and 22 additional stores.
+    </string>
+
+    <!--Art tour Activity-->
+
+    <string name="art_title">Art Tour - The Botero Museum</string>
+    <string name="art_description">
+        Political and social turbulence are very often catalysts for the production of art, music and literature, as they often serve as a powerful expression of human sentiment in the face of difficult times. As Colombia\’s turbulent past begins to fade
+        into historical anecdotes, its arts scene does exactly the opposite, as older generations of Colombian artists start to blend with the new generations of fine arts graduates from Colombia\’s many art schools and academies.
+        Colombia, in particular Bogota, does seem to be putting itself ahead of the game in South America in its cultivation and promotion of the all arts and art culture in the country. Since 2004, Bogota\’s own art fair, ArtBo, has been a driving force
+        in the Colombia\’s art scene, helping to gain domestic and international exposure for the country\’s artists and to increase exposure of Colombian art to a greater worldwide audience.
+        As an Art Dealer and Cultural Manager in Colombia for more than 10 years, Federico Ruiz offers in depth and customized \‘art tours\’, which he calls, \‘A Path through the Colombian Art Scene.\’ Each path is unique, as Federico adapts the tours for
+        each individual\’s taste and interests. As well as galleries and museums, being very well-embedded in to the arts and culture scene in Bogota allows Federico to offer a unique look under the skin of the city, past the gallery walls and into the artists\’
+        studios themselves. He also offers a fascinating look into the wider street art scene, outside of the more touristic La Candelaria district, where the wider spaces and larger walls provide artists with far greater canvasses on which to express their talents.
+        Situated in a renovated colonial house in the heart of Bogota\’s historical center, the Botero Museum houses one of Latin America\’s most important international art collections. It showcases the paintings and sculptures of Colombia\’s famed artist,
+        Fernando Botero, known for his depictions of exaggeratedly overweight subjects and fruits.
+    </string>
+
+
+
+    <!-- Hotels -->
+
+    <!-- Marriot Hotel -->
+    <string name="marriot_title">JW Marriot Hotel Bogota</string>
+    <string name="marriot_description">
+        Luxury in the financial district.\nIn the financial district and near embassies and multinational offices, this is one of the most impressive hotels in Colombia.\nComfortable, elegant rooms have all the luxurious touches expected of a five-star hotel.\nBest of Bogota hotel restaurant La Mina is modeled after the famous salt mines north of the city.\nFor a posh way to relax -- or dizzy yourself with indecision -- the hotel bar menu features 73 types of martinis.\n\nJW Marriott Hotel Bogota, Calle 73 # 8-60, Bogota Colombia; +571 481 6000\n
+    </string>
+
+    <!-- Casa Medina Hotel -->
+    <string name="medina_title">Charleston Casa Medina</string>
+    <string name="medina_description">
+        In a colonial-era building, this 58-room boutique hotel was declared a Monument of Cultural Interest by the Colombian Ministry of Culture.\nAppointments like hand-carved wooden doors, stone walls and wrought-iron trim have been carefully restored to their original grandeur.\nThe hotel is located in Zona G, a best of Bogota gastronomic area not far from downtown, making getting around the city easy. \nAll rooms include iHome sound systems, excellent décor and working chimneys in the suites.\n\nFour Seasons Hotel Casa Medina Bogota, Carrera 7, 69A-22 Cundinamarca, Bogota Colombia; +57 1 217 0288\n
+    </string>
+
+    <!--Radisson Hotel -->
+    <string name="radisson_title">Radisson Royal Bogota Hotel</string>
+    <string name="radisson_description">
+        Within walking distance of businesses, events, malls and restaurants, this hotel in the north of the city provides outstanding service and individualized attention.\nLarge, comfortable suites offer excellent views of Bogota.\nA delicious selection of international food is served at the two restaurants, and in the evening guests can relax with live music and drinks in a lounge near the lobby\'s majestic winding marble staircase.\n\nRadisson AR Hotel Bogota Airport, Carrera 60 No. 22-99, Bogota Colombia\n
+    </string>
+
+    <!-- La Fontana Hotel-->
+    <string name="fontana_title">Hotel Estelar La Fontana</string>
+    <string name="fontana_description">
+        Ivy-covered buildings, beautiful outdoor areas and attentive staff make this an easy best of Bogota pick.\nLa Fonatana\'s central courtyard radiates the feeling of a main square in a small colonial town, complete with a fountain and chapel.\nOn Sundays that courtyard becomes a hive of cultural activity, with live music, local art, hands-on crafts events for children and a fair with 60 artisans and their crafts.\n\nHotel Estelar La Fontana, Av.127 15A-10, Bogota Colombia; +571 615 4400\n
+    </string>
+
+
+
+    <!-- Restaurants -->
+
+
+
+
+
+
+
+</resources>
