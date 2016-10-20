@@ -28,19 +28,19 @@ public class ActivitiesFragment extends Fragment {
         View rootView  = inflater.inflate(R.layout.category_list, container, false);
 
         final ArrayList<Content> content = new ArrayList<Content>();
-        content.add(new Content(R.string.ciclovia_title,R.string.ciclovia_desciption));
-        content.add(new Content(R.string.humedales_title,R.string.humedales_description));
-        content.add(new Content(R.string.hacienda_title,R.string.hacienda_description));
-        content.add(new Content(R.string.centro_title,R.string.centro_description));
-        content.add(new Content(R.string.art_title,R.string.art_description));
-//        content.add(new Content(R.string.,R.string.,R.drawable.));
+//        content.add(new Content(R.string.ciclovia_title,R.string.ciclovia_desciption));
+//        content.add(new Content(R.string.humedales_title,R.string.humedales_description));
+//        content.add(new Content(R.string.hacienda_title,R.string.hacienda_description));
+//        content.add(new Content(R.string.centro_title,R.string.centro_description));
+//        content.add(new Content(R.string.art_title,R.string.art_description));
+////        content.add(new Content(R.string.,R.string.,R.drawable.));
 
 
-//        content.add(new Content(R.string.ciclovia_title,R.string.ciclovia_desciption, R.drawable.activities_ciclovia));
-//        content.add(new Content(R.string.humedales_title,R.string.humedales_description,R.drawable.humedales_activity));
-//        content.add(new Content(R.string.hacienda_title,R.string.hacienda_description,R.drawable.hacienda_activity2));
-//        content.add(new Content(R.string.centro_title,R.string.centro_description,R.drawable.andino_activity));
-//        content.add(new Content(R.string.art_title,R.string.art_description,R.drawable.art_activity));
+        content.add(new Content(R.string.ciclovia_title,R.string.ciclovia_desciption, R.drawable.activities_ciclovia));
+        content.add(new Content(R.string.humedales_title,R.string.humedales_description,R.drawable.humedales_activity));
+        content.add(new Content(R.string.hacienda_title,R.string.hacienda_description,R.drawable.hacienda_activity));
+        content.add(new Content(R.string.centro_title,R.string.centro_description,R.drawable.andino_activity));
+        content.add(new Content(R.string.art_title,R.string.art_description,R.drawable.art_activity));
 
         ContentAdapater contentAdapater = new ContentAdapater(getActivity(),content);
 

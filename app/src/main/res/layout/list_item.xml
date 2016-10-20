@@ -7,19 +7,16 @@
         <ImageView
             android:id="@+id/section_image"
             style="@style/imageView_sites"
-            android:layout_gravity="center_horizontal"
-            android:src="@drawable/candelaria_street" />
+            android:layout_gravity="center_horizontal"/>
         <TextView
             android:id="@+id/section_title"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="@string/candelaria_title"
             style="@style/sections_title"/>
         <TextView
             android:id="@+id/section_description"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="@string/candelaria_description"
             style="@style/section_description"/>
 
 </LinearLayout>
