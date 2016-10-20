@@ -35,14 +35,6 @@ public class SitesFragment extends Fragment {
         content.add(new Content(R.string.usaquen_title,R.string.usaquen_description));
         content.add(new Content(R.string.monserrate_title,R.string.monserrate_description));
 
-
-//        content.add(new Content(R.string.candelaria_title,R.string.candelaria_description,R.drawable.candelaria_street));
-//        content.add(new Content(R.string.zonarosa_title,R.string.zonarosa_description, R.drawable.bogota_zona_rosa));
-//        content.add(new Content(R.string.zonag_title,R.string.zonag_description,R.drawable.zona_g));
-//        content.add(new Content(R.string.park93_title,R.string.park93_description,R.drawable.parque93));
-//        content.add(new Content(R.string.usaquen_title,R.string.usaquen_description,R.drawable.usaquen));
-//        content.add(new Content(R.string.monserrate_title,R.string.monserrate_description,R.drawable.monserrate));
-
         ContentAdapater contentAdapater = new ContentAdapater(getActivity(),content);
 
         ListView listView = (ListView) rootView.findViewById(R.id.list);
